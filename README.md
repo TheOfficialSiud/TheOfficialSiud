@@ -61,16 +61,16 @@
 <h2 align="left">Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h3 align="left">Language :</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png' alt="Python"> </a> &nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a> 
+<a  target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0" alt="c" width="40" height="40"/> </a>&nbsp &nbsp;
+<a  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp &nbsp;
+<a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt="Python" width="40" height="40"> </a> &nbsp &nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a> &nbsp;
 
 
 <h3 align="left">Web Development :</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="40"/> </a> &nbsp  &nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="110" height="40"/> </a> &nbsp &nbsp; 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="120" height="40"/> </a> &nbsp  &nbsp;
 <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp;
 
 
