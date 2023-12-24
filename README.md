@@ -31,7 +31,7 @@
 <hr/>
 
 
-
+<br/>
 <h2 id="about-me"> 📧 Connect With me</h2>
 
 </p>
@@ -53,36 +53,40 @@
             alt="officialsiud" height="30"width="140" /></a>
 
 </p>
+
+
 <hr/>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+<h3 align="left">Language :</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C++-1598B6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png' alt="Python"> </a> &nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a> 
 
 
-
+<h3 align="left">Web Development :</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp;
 
 
-
+<h3 align="left">Database :</h3>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="40px" align='left'> </a>&nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp;
 <a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a> &nbsp; &nbsp;
 
-
+<h3 align="left">Tools & Technology :</h3>
 <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  </p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp &nbsp; 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp &nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp &nbsp;
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  </p>
 <hr/>
 
 
