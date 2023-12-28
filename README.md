@@ -101,5 +101,5 @@
 
 <hr/>
 
-[![Sudhanshu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sudhanshu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)
 </details>
