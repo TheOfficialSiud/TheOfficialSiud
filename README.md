@@ -1,3 +1,5 @@
+
+![Sudhanshu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -101,5 +103,4 @@
 
 <hr/>
 
-![Sudhanshu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)
 </details>
